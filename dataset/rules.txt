@@ -1,0 +1,2 @@
+@prefix : <http://ukanon.org/adf/example#> .
+[ruleCanUse: (?d :concentSignFor ?L1) (?L2 :workSameAs ?L1) -> (?L2 :canUse ?d)]

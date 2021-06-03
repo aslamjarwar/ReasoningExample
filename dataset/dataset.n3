@@ -1,0 +1,9 @@
+@prefix uk: <http://ukanon.org/adf/example#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+uk:organization-A a prov:Entity .
+uk:organization-A uk:hasDataSet uk:clinical_trials_dataset .
+uk:organization-A uk:obligedToShare uk:clinical_trials_dataset .
+uk:clinical_trials_dataset uk:concentSignFor uk:laboratory_1 .
+uk:laboratory_2 uk:workSameAs uk:laboratory_1 .
+
+
