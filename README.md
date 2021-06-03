@@ -1,11 +1,10 @@
 # ReasoningExample
  Reasoning to infer new statements
  
-<<<<<<< HEAD
+
 **Use Case**
 =======
-#Use Case
->>>>>>> 44b944d4a8238d1e128242a7409c089f65706fcf
+
 
 ![bundle attributes](images/image.jpg)
 
