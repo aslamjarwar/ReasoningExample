@@ -21,9 +21,9 @@
 
 if everything goes well  the output should be as :
 
-http://ukanon.org/adf/example#laboratory_2
-http://ukanon.org/adf/example#canUse 
-http://ukanon.org/adf/example#clinical_trials_dataset
+http://ukanon.org/adf/example#laboratory_2 \
+http://ukanon.org/adf/example#canUse \
+http://ukanon.org/adf/example#clinical_trials_dataset \
 
 http://ukanon.org/adf/example#clinical_trials_dataset
 http://ukanon.org/adf/example#concentSignFor 
