@@ -1,7 +1,7 @@
 # ReasoningExample
  Reasoning to infer new statements
  
-Use Case
+#Use Case
 
 ![bundle attributes](images/image.jpg)
 
